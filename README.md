@@ -24,10 +24,11 @@
 
 ---
 
-### 📬 Contact
+### 📬 Contact 
+> For learning, collaboration, or just to say hi.
 - [LinkedIn](https://www.linkedin.com/in/connect-with-kriti)  
 - [LeetCode](https://leetcode.com/kriti-on-leetcode)  
-> For learning, collaboration, or just to say hi.
+
 
 ---
 
