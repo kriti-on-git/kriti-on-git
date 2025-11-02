@@ -29,7 +29,7 @@
 - [LinkedIn](https://www.linkedin.com/in/connect-with-kriti)  
 - [LeetCode](https://leetcode.com/kriti-on-leetcode)  
 
-
+[![An image of @kritiongit's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kritiongit)](https://holopin.io/@kritiongit)
 ---
 
 <h5 align="center">👀 Building quietly. Growing daily.</h5>
