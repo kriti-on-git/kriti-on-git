@@ -98,13 +98,7 @@ AI Documentation Generator and RAG-powered Assistant.
 * Backend Engineering
 * Cloud Computing
 * Open Source Contributions
-
-## Connect With Me
-
-* LinkedIn: [Add Your LinkedIn]
-* GitHub: [Add Your GitHub]
-* Email: [Add Your Email]
-
+* 
 ---
 
 *"Building technology that creates real-world impact."*
