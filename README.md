@@ -97,8 +97,7 @@ AI Documentation Generator and RAG-powered Assistant.
 * Computer Vision Applications
 * Backend Engineering
 * Cloud Computing
-* Open Source Contributions
-* 
+* Open Source Contributions 
 ---
 
 *"Building technology that creates real-world impact."*
